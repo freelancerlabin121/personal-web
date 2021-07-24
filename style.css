@@ -1,0 +1,125 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#item{
+    text-decoration: none;
+    list-style: none;
+}
+.class{
+    font-weight:bold;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    padding-right: 30px;
+}
+#manu-bar{
+    width: 90%;
+    background-color: white;
+    text-align: right;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color:blue;
+}
+.butn{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, skyblue, blue);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+
+}
+section{
+    height: 600px;
+}
+img{
+    width: 100%;
+}
+.divclass{
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 4%;
+}
+#spid{
+    color: blue;
+   
+}
+h2{
+    text-align: center;
+   
+}
+.card{
+    width: 25%;
+    margin: 3%;
+    
+    padding: 10px;
+    background-color: white;
+    border-radius: 17px;
+    float: left;
+    
+}
+.cardsec{
+    background-color: rgb(243, 237, 237);
+     padding: 20px;
+     
+}
+.group{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+h3{
+    text-align: center;
+}
+#hid{
+    color: rgb(173, 163, 163);
+}
+.logo{
+    
+    width: 3%;
+    float: left;
+    margin: 9px;
+    
+}
+.sublogo{
+    padding-left: 45%;
+   
+}
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+  } 
+  .bttn {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+  } 
+  .butnn{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, salmon, orange);
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: white;
+
+}
